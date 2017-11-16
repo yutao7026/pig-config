@@ -3,7 +3,7 @@ server:
   
 #Redis cache 过期时间设置
 redis:
-  port:7777
+  port: 7777
   cache:
     expiration: 3600
     
